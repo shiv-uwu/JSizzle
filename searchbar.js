@@ -2,6 +2,8 @@
 // -SHIV-UWU- //
 // ---------- //
 
+console.log("Made by github.com/shiv-uwu")
+
 function filterResults() { // function to filter results
     var input = document.getElementById("search-bar").value.toUpperCase(); // get input from search bar
     var results = document.getElementById("results"); // get results list

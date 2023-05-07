@@ -2,6 +2,8 @@
 // -SHIV-UWU- //
 // ---------- //
 
+console.log("Made by github.com/shiv-uwu")
+
 function validateForm() { // function to validate form
     var name = document.forms[0]["name"].value; // get name from form
     var email = document.forms[0]["email"].value; // get email from form

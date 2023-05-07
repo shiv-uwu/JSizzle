@@ -3,6 +3,8 @@
 // -SHIV-UWU- //
 // ---------- //
 
+console.log("Made by github.com/shiv-uwu")
+
 function initMap() { // function to initialize map
     if (navigator.geolocation) { // check if geolocation is supported
       navigator.geolocation.getCurrentPosition(function(position) {

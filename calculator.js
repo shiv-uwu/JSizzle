@@ -5,6 +5,8 @@
 // code does not work raw, you need to add html buttons and some css to make it look good
 // this is just the javascript code for the calculator
 
+console.log("Made by github.com/shiv-uwu")
+
 var operand1 = 0; // this is the first number
 var operand2 = 0; // this is the second number
 var operator = "";

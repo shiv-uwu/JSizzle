@@ -2,6 +2,8 @@
 // -SHIV-UWU- //
 // ---------- //
 
+console.log("Made by github.com/shiv-uwu")
+
 async function fetchData() { // async function to fetch data from API
     try { // try-catch block to catch errors
         const response = await fetch('https://jsonplaceholder.typicode.com/todos/1');
